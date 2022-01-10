@@ -1,4 +1,4 @@
-package de.floriangross.demo.spring;
+package de.floriangross.demo.romannumbers.spring;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.filter.OncePerRequestFilter;

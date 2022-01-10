@@ -1,4 +1,4 @@
-package de.floriangross.demo.spring;
+package de.floriangross.demo.romannumbers.spring;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
